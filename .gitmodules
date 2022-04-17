@@ -1,3 +1,4 @@
 [submodule "module"]
 	path = module
 	url = git@github.com:pahany4/module.git
+	branch = develop
